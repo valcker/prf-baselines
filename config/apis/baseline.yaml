@@ -1,0 +1,4 @@
+name: Baseline
+endpoint: /graphql
+source_config_names: ["apollo-baseline.yaml"]
+playground: true

@@ -1,0 +1,4 @@
+name: Baseline
+handler:
+  graphql:
+    endpoint: http://localhost:4000
